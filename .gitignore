@@ -1,0 +1,15 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+
+# Compiled/exported binaries
+*.exe
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
